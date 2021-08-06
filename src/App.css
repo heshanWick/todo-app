@@ -1,0 +1,23 @@
+h3{color: #676825}
+
+.ui-container
+{
+    padding-top: 30px;
+    align-content: center;
+    background-color: #85DFEA;
+}
+
+.ui-left
+{
+    padding: 10vh 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+/* .ui-right
+{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+} */
